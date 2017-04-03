@@ -1,0 +1,44 @@
+[
+  {
+    "title": "part-number1",
+    "pubdate": 1412208000000,
+"firmwares": [
+{
+"title": "firmware-v1.0",
+"version": "1.0"
+},
+{
+"title": "firmware-v1.1",
+"version": "1.1"
+}
+]
+  },
+  {
+    "title": "part-number2",
+    "pubdate": 1413590400000,
+"firmwares": [
+{
+"title": "firmware-v2.0",
+"version": "2.0"
+},
+{
+"title": "firmware-v2.1",
+"version": "2.1"
+}
+]
+  },
+  {
+    "title": "part-number3",
+    "pubdate": 1415145600000,
+"firmwares": [
+{
+"title": "firmware-v3.0",
+"version": "3.0"
+},
+{
+"title": "firmware-v3.1",
+"version": "3.1"
+}
+]
+  }
+]
